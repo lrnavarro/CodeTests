@@ -1,16 +1,3 @@
-# SignalPath, LLC.
-## Technical Assessment
-So you're interviewing at SignalPath, and you've progressed far enough that we want a code sample. Congratulations! Follow the link to the appropriate assessment, and then submit your answers to your recruiting contact. (And hey, if you're not already in the interview process, take a look at our [open positions](http://signalpath.workable.com).)
+Open platform.md to view ranking of programming languages and frameworks.
 
-* [Platform Engineering](platform.md)
-* [UI Engineering](ui.md)
-* [Software Engineering in Test](set.md)
-* [Manager of Software Quality Assurance](msqa.md)
-* [QA Engineer](qa.md)
-* [DevOps](devops.md)
-* [Desktop Engineer](it.md)
-
-## About SignalPath
-[SignalPath](http://www.signalpath.com) creates software that makes the clinical research process easier and more enjoyable.
-
-We [hire smart, collaborative engineers](http://signalpath.workable.com) who deliver good software.
+ Enter <python3 b64Encoding.py> on the command line to run Python code for the base64 translation.
